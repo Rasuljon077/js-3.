@@ -26,5 +26,6 @@ for (let i = 1; i < useransver2; i++) {
  k = k * useransver1
   console.log(k);
 }
+alert(k)
 
 // console.log(k);
