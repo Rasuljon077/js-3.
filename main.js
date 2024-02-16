@@ -9,6 +9,13 @@ while (isNaN(useransver1 ) || useransver1  == "0") {
 }
 
 let useransver2= +prompt("darajaga oshitmoqchi bolgan soningizni kiriting")
+while (isNaN(useransver2) || useransver2 == "") {
+    if (useransver2 == "") {
+        useransver2 = +prompt("iltimos 0  dan boshqa son kiriting")
+    } else {
+        useransver2 = +prompt("iltimos son kiriting")
+    }
+}
 
 let k = 1
 
