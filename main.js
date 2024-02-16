@@ -3,7 +3,7 @@ let useransver1 = +prompt("brinchi qiymatni kiriting kiriting")
 while (isNaN(useransver1 ) || useransver1  == "0") {
     if (useransver1  == "0") {
         useransver1  = +prompt("0 son turiga kirmaydi")
-    }else{``
+    }else{
         useransver1  = +prompt("iltimis son kiriting")
     }
 }
