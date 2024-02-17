@@ -8,6 +8,14 @@ while (isNaN(useransver1 ) || useransver1  == "0") {
     }
 }
 
+// let useransver1 = +prompt("son kirgazing")
+
+// if (useransver1 / 2 ) {
+//     alert("juft son")
+// }else{
+//     alert("toq son")
+// }
+
 let useransver2= +prompt("darajaga oshitmoqchi bolgan soningizni kiriting")
 while (isNaN(useransver2) || useransver2 == "") {
     if (useransver2 == "") {
@@ -29,3 +37,6 @@ for (let i = 1; i < useransver2; i++) {
 alert(k)
 
 // console.log(k);
+
+
+
