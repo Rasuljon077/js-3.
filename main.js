@@ -8,8 +8,6 @@ while (isNaN(useransver1 ) || useransver1  == "0") {
     }
 }
 
-// let useransver1 = +prompt("son kirgazing")
-
 // if (useransver1 / 2 ) {
 //     alert("juft son")
 // }else{
