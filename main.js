@@ -25,7 +25,7 @@ while (isNaN(useransver2) || useransver2 == "") {
 
 let k = 1
 
-for (let i = 1; i <= useransver2; i++) {
+for (let i = 1; i < useransver2; i++) {
 
     // let k = 1
 
